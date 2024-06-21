@@ -1,0 +1,95 @@
+Date : 2023-07-20 18:03:18
+Directory : c:\Users\Admin\Documents\GitLab\voce
+Total : 42 files,  1734 codes, -25 comments, 233 blanks, all 1942 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         42 |      1,734 |        -25 |        233 |      1,942 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                   |         42 |      1,734 |        -25 |        233 |      1,942 |
+| lib                                                                                                                                 |         42 |      1,734 |        -25 |        233 |      1,942 |
+| lib\cubit                                                                                                                           |         12 |        403 |          9 |        114 |        526 |
+| lib\cubit (Files)                                                                                                                   |         11 |        386 |          9 |        109 |        504 |
+| lib\cubit\social_story_cubit                                                                                                        |          1 |         17 |          0 |          5 |         22 |
+| lib\exceptions                                                                                                                      |          1 |          5 |          0 |          1 |          6 |
+| lib\models                                                                                                                          |          1 |          3 |          0 |          1 |          4 |
+| lib\screens                                                                                                                         |         14 |        443 |        -78 |         23 |        388 |
+| lib\screens\auth_screens                                                                                                            |          1 |         -7 |          0 |          0 |         -7 |
+| lib\screens\communication_screens                                                                                                   |          1 |         15 |          0 |          0 |         15 |
+| lib\screens\communication_screens\pages                                                                                             |          1 |         15 |          0 |          0 |         15 |
+| lib\screens\home_page                                                                                                               |          2 |         15 |         13 |          3 |         31 |
+| lib\screens\home_page (Files)                                                                                                       |          1 |        -11 |         13 |          3 |          5 |
+| lib\screens\home_page\ui_components                                                                                                 |          1 |         26 |          0 |          0 |         26 |
+| lib\screens\multimedia_contents_screens                                                                                             |          4 |        344 |          0 |         18 |        362 |
+| lib\screens\multimedia_contents_screens (Files)                                                                                     |          3 |        325 |          0 |         17 |        342 |
+| lib\screens\multimedia_contents_screens\ui_components                                                                               |          1 |         19 |          0 |          1 |         20 |
+| lib\screens\patient_screens                                                                                                         |          1 |         -6 |          0 |          0 |         -6 |
+| lib\screens\patient_screens\pages                                                                                                   |          1 |         -6 |          0 |          0 |         -6 |
+| lib\screens\social_stories_screens                                                                                                  |          1 |         -5 |          0 |          0 |         -5 |
+| lib\screens\social_stories_screens\ui_components                                                                                    |          1 |         -5 |          0 |          0 |         -5 |
+| lib\screens\table_screens                                                                                                           |          4 |         87 |        -91 |          2 |         -2 |
+| lib\screens\table_screens (Files)                                                                                                   |          1 |         86 |        -92 |          2 |         -4 |
+| lib\screens\table_screens\mbs                                                                                                       |          1 |          9 |          0 |          0 |          9 |
+| lib\screens\table_screens\mbs\pages                                                                                                 |          1 |          9 |          0 |          0 |          9 |
+| lib\screens\table_screens\ui_components                                                                                             |          2 |         -8 |          1 |          0 |         -7 |
+| lib\services                                                                                                                        |          2 |         86 |          0 |         17 |        103 |
+| lib\widgets                                                                                                                         |         12 |        794 |         44 |         77 |        915 |
+| lib\widgets (Files)                                                                                                                 |          6 |        366 |         13 |         31 |        410 |
+| lib\widgets\charts                                                                                                                  |          6 |        428 |         31 |         46 |        505 |
++-------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                            | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\create_image_cubit.dart                                                  | Dart     |          5 |          0 |          1 |          6 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\dash_patient_image_count_cubit.dart                                      | Dart     |         56 |          3 |         10 |         69 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\dash_patient_image_count_state.dart                                      | Dart     |         16 |          0 |          8 |         24 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\dash_patient_new_pictograms_cubit.dart                                   | Dart     |         58 |          3 |         14 |         75 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\dash_patient_new_pictograms_state.dart                                   | Dart     |         17 |          0 |          8 |         25 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\dash_patient_phrase_stats_cubit.dart                                     | Dart     |         62 |          3 |         14 |         79 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\dash_patient_phrase_stats_state.dart                                     | Dart     |         16 |          0 |          9 |         25 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\open_voce_pictograms_cubit.dart                                          | Dart     |         32 |          0 |          9 |         41 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\open_voce_pictograms_state.dart                                          | Dart     |         17 |          0 |          8 |         25 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\pictograms_cubit.dart                                                    | Dart     |         89 |          0 |         18 |        107 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\pictograms_state.dart                                                    | Dart     |         18 |          0 |         10 |         28 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\cubit\social_story_cubit\social_story_editor_cubit.dart                        | Dart     |         17 |          0 |          5 |         22 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\exceptions\voce_api_exception.dart                                             | Dart     |          5 |          0 |          1 |          6 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\models\comunicative_session.dart                                               | Dart     |          3 |          0 |          1 |          4 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\auth_screens\login_screen.dart                                         | Dart     |         -7 |          0 |          0 |         -7 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\communication_screens\pages\operator_page_translate.dart               | Dart     |         15 |          0 |          0 |         15 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\home_page\home_screen.dart                                             | Dart     |        -11 |         13 |          3 |          5 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\home_page\ui_components\patient_card.dart                              | Dart     |         26 |          0 |          0 |         26 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\multimedia_contents_screens\multimedia_contents_screen.dart            | Dart     |         -6 |          0 |          0 |         -6 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\multimedia_contents_screens\open_voce_pictograms_screen.dart           | Dart     |        120 |          0 |          8 |        128 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\multimedia_contents_screens\pictograms_manager_screen.dart             | Dart     |        211 |          0 |          9 |        220 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\multimedia_contents_screens\ui_components\filter_by_patient_panel.dart | Dart     |         19 |          0 |          1 |         20 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\patient_screens\pages\patient_dashboard_page.dart                      | Dart     |         -6 |          0 |          0 |         -6 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\social_stories_screens\ui_components\social_story_block.dart           | Dart     |         -5 |          0 |          0 |         -5 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\table_screens\mbs\pages\page_table_content.dart                        | Dart     |          9 |          0 |          0 |          9 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\table_screens\tables_screen.dart                                       | Dart     |         86 |        -92 |          2 |         -4 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\table_screens\ui_components\button_create_table.dart                   | Dart     |         -8 |          0 |          0 |         -8 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\screens\table_screens\ui_components\tables_grid_view.dart                      | Dart     |          0 |          1 |          0 |          1 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\services\dashboard_api.dart                                                    | Dart     |         78 |          0 |         15 |         93 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\services\voce_api_repository.dart                                              | Dart     |          8 |          0 |          2 |         10 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\charts\patient_grammatical_types_count.dart                            | Dart     |        117 |          0 |          7 |        124 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\charts\patient_image_count.dart                                        | Dart     |        208 |          5 |         13 |        226 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\charts\patient_new_pictograms.dart                                     | Dart     |        294 |         13 |         19 |        326 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\charts\patient_phrase_lenght.dart                                      | Dart     |        331 |         13 |         22 |        366 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\charts\test_chart.dart                                                 | Dart     |       -344 |          0 |         -8 |       -352 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\charts\test_chart_2.dart                                               | Dart     |       -178 |          0 |         -7 |       -185 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\date_input_widget.dart                                                 | Dart     |         56 |          5 |          8 |         69 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\radio_button_widget.dart                                               | Dart     |         45 |          4 |          6 |         55 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\text_button_widget.dart                                                | Dart     |         35 |          4 |          4 |         43 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\vocecaa_image_card.dart                                                | Dart     |         10 |          0 |          0 |         10 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\vocecaa_layout.dart                                                    | Dart     |        130 |          0 |          7 |        137 |
+| c:\Users\Admin\Documents\GitLab\voce\lib\widgets\vocecaa_open_voce_layout.dart                                          | Dart     |         90 |          0 |          6 |         96 |
+| Total                                                                                                                               |          |      1,734 |        -25 |        233 |      1,942 |
++-------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

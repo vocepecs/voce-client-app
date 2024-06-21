@@ -1,0 +1,4 @@
+enum PatientOperation {
+  CREATE,
+  UPDATE,
+}

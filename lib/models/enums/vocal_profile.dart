@@ -1,0 +1,4 @@
+enum VocaProfile {
+  MALE,
+  FEMALE,
+}

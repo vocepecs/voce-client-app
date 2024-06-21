@@ -1,0 +1,5 @@
+enum CAAContentOperation {
+  CREATE_GENERAL,
+  CREATE_PATIENT_ASSOCIATION,
+  UPDATE,
+}
